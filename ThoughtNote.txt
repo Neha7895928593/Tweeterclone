@@ -1,0 +1,2 @@
+Ma'am I add all functionality in backend  but image not upload still.
+ma'am at my frontend I didn't do like delete retweeet functionality due to time  other thing I done .
